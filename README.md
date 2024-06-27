@@ -1,3 +1,5 @@
+# Note : The source code of the bot is outdated as I'm not working on the bot currently. This repository will remain archived.
+
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Karma" src="https://cdn.discordapp.com/avatars/636484020301201418/c42cd65954060d3fdf4e0a3bab01990c.png?size=1024"> 
 
 # KarmaBot ✨
